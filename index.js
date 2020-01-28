@@ -15,10 +15,10 @@ function sayHiToGrandma(string) {
 
 function sayHiToGrandma(string) {
   if .toUpperCase()
-  return "YES INDEED!";
-} else {
+  return "YES INDEED" ;
+  } else {
   return "I can't hear you!";
-}
+  }
 
 
   

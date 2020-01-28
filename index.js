@@ -12,6 +12,10 @@ function sayHiToGrandma(string) {
   return "I can't hear you!"
 }
 
-function sayHiToGrandma(string) {
-  return "YES INDEED!".toUpperCase()
-}
+if (a > 0) {
+    return "positive";
+  } else {
+    return "NOT positive";
+  }
+  
+  if ()
